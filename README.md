@@ -1,5 +1,3 @@
-# jpg-png-compressor
+# 各类小工具
 
-pip install pillow pyinstaller tkinter
-
-python build.py
+使用auto-py-to-exe打包
